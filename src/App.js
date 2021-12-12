@@ -7,8 +7,8 @@ function App() {
 	return (
 		<section className="App container">
 			<Header />
-      <ColorGradient />
-      <InputColor />
+			<ColorGradient />
+			<InputColor />
 		</section>
 	);
 }
